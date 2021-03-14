@@ -3,10 +3,4 @@
   "ticker":"TYCO,
   "description":"Built on a Raspberry Pi!.",
   "homepage":"https://www.tycopools.com/home",
-  "social": {
-              "twitter_handle": "Stake2Tyco",
-              "twitch_handle": "realtyco",
-              "discord_handle": "Tyco#2963",
-        },
-
 }
