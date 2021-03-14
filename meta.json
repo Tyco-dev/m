@@ -1,1 +1,12 @@
-{"name": "Tyco Pool","ticker":"TYCO,"description":"Built on a Raspberry Pi!.","homepage":"https://www.tycopools.com/home"}
+{
+  "name": "Tyco Pool",
+  "ticker":"TYCO,
+  "description":"Built on a Raspberry Pi!.",
+  "homepage":"https://www.tycopools.com/home",
+  "social": {
+              "twitter_handle": "Stake2Tyco",
+              "twitch_handle": "RealityCo",
+              "discord_handle": "Tyco#2963",
+        },
+
+}
