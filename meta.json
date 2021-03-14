@@ -1,1 +1,6 @@
-{"name": "Tyco Pool","ticker":"TYCO,"description":"Built on a Raspberry Pi!.","homepage":"https://www.tycopools.com/home"}
+{
+  "name": "TycoPool",
+  "description": "Stake Pool Built on a Raspberry Pi!",
+  "ticker": "TYCO",
+  "homepage": "https://tycopools.com"
+  }
